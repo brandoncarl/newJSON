@@ -1,0 +1,12 @@
+{
+  "name": "newjson",
+  "version": "0.5.0",
+  "description": "Newline-delimited JSON detection and parsing for node",
+  "main": "index.js",
+  "keywords": ["newline-delimited JSON", "NDJ"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Carl",
+  "license": "MIT"
+}
